@@ -12,6 +12,3 @@ A command-line tool to create and read QR codes using external libraries.
 - **Run with**: `python qr_code_app.py`
 - **Dependencies**: Requires `qrcode` and `Pillow` (see requirements.txt).
 
----
-**Course Instructor:** Dr. Hamzah Alkhazaleh  
-**Team:** Katayoun, Maha, Hawa, Hasina
